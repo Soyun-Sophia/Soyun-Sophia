@@ -1,6 +1,4 @@
 ## Hi there 👋
-<!--타이틀-->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&height=300&section=header&text=Soyun%20Sophia&fontSize=90&animation=twinkling" />
 
 <br>
 
