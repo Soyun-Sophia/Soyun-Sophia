@@ -11,6 +11,19 @@
 
 <br>
 
+# 🕹 My Projects
+
+## Top-Down Shooter
+🎮 Top-Down Shooter Game Project (Team Project)
+
+**Tech Stack:** Unity, C#  
+
+**Key Features:**
+- Implemented multiplayer functionality with real-time synchronization
+- Synchronized player actions: movement, attacks, health potions, and weapon usage
+
+**Repo:** [COMP602 Top-Down Shooter](https://github.com/pwv8669/COMP602-Top-Down-Shooter)
+
 <!--연락처-->
 <h3 align="center">✉️ Contact ✉️</h3>
 <div align="center">
