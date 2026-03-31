@@ -40,7 +40,7 @@
 
 **Status:** In progress
 
-**Repository:** *(Currently Private)*
+**Repo:** *(Currently Private)*
 *(Link available upon request or via collaborator invite)*
 
 **Notes:**  
