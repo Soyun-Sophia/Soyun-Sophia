@@ -36,7 +36,7 @@
 **Repo:** [Top-Down Shooter](https://github.com/pwv8669/COMP602-Top-Down-Shooter)
 
 ## AI Database Migragtion
-🔄 This is a work‑in‑progress project focused on leveraging large language models (LLMs) to assist with database migration tasks *(Team Project)*
+🔄 This is a work‑in‑progress project focused on leveraging large language models (LLMs) to assist with database migration tasks (Team Project)
 
 **Status:** In progress
 
