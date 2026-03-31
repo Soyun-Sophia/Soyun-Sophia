@@ -14,7 +14,7 @@
 # 🕹 My Projects
 
 ## Student Information Management System
-🎓 A Student Information Management System project to handle basic student records and data (Team Project).
+🎓 A Student Information Management System project to handle basic student records and data (Team Project)
 
 **Tech Stack:** Java 
 
@@ -34,6 +34,24 @@
 - Synchronized player actions: movement, attacks, health potions, and weapon usage
 
 **Repo:** [COMP602 Top-Down Shooter](https://github.com/pwv8669/COMP602-Top-Down-Shooter)
+
+## Database Migration with LLM
+
+🔄 **AI Database Migragtion** *(In Progress)*
+
+This is a work‑in‑progress project focused on leveraging large language models (LLMs) to assist with database migration tasks
+
+**Project Summary:**
+This project aims to utilize a large language model to analyze existing database schemas and generate migration plans or transformation scripts automatically. The goal is to reduce manual effort in migrating databases across different schemas, platforms, or versions
+
+**Status:** In progress
+
+**Repository:** *(Currently Private)*
+*(Link available upon request or via collaborator invite)*
+
+**Notes:**  
+Detailed information and results will be updated after the project is completed
+
 
 <!--연락처-->
 <h3 align="center">✉️ Contact ✉️</h3>
