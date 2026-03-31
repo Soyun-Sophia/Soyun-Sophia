@@ -13,6 +13,17 @@
 
 # 🕹 My Projects
 
+## Student Information Management System
+🎓 A Student Information Management System project to handle basic student records and data (Team Project).
+
+**Tech Stack:** Java 
+
+**Core Features:**
+- Manage student records (add, update, delete, view)
+- Store and retrieve core student data
+
+**Repo:** https://github.com/whdgk0754/Student-Information-Management-System
+
 ## Top-Down Shooter
 🎮 Top-Down Shooter Game Project (Team Project)
 
