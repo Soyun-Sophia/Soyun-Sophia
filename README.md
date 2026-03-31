@@ -18,14 +18,14 @@
 
 **Tech Stack:** Java 
 
-**Core Features:**
+**Key Features:**
 - Manage student records (add, update, delete, view)
 - Store and retrieve core student data
 
-**Repo:** https://github.com/whdgk0754/Student-Information-Management-System
+**Repo:** [Student Information Management System](https://github.com/whdgk0754/Student-Information-Management-System)
 
 ## Top-Down Shooter
-🎮 Top-Down Shooter Game Project (Team Project)
+🎮 Multiplayer Zombie Shooter Game Project (Team Project)
 
 **Tech Stack:** Unity, C#  
 
@@ -33,16 +33,10 @@
 - Implemented multiplayer functionality with real-time synchronization
 - Synchronized player actions: movement, attacks, health potions, and weapon usage
 
-**Repo:** [COMP602 Top-Down Shooter](https://github.com/pwv8669/COMP602-Top-Down-Shooter)
+**Repo:** [Top-Down Shooter](https://github.com/pwv8669/COMP602-Top-Down-Shooter)
 
-## Database Migration with LLM
-
-🔄 **AI Database Migragtion** *(In Progress)*
-
-This is a work‑in‑progress project focused on leveraging large language models (LLMs) to assist with database migration tasks
-
-**Project Summary:**
-This project aims to utilize a large language model to analyze existing database schemas and generate migration plans or transformation scripts automatically. The goal is to reduce manual effort in migrating databases across different schemas, platforms, or versions
+## AI Database Migragtion
+🔄 This is a work‑in‑progress project focused on leveraging large language models (LLMs) to assist with database migration tasks *(Team Project)*
 
 **Status:** In progress
 
