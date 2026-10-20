@@ -63,10 +63,10 @@
 
 **Repo:** [Top-Down Shooter](https://github.com/pwv8669/COMP602-Top-Down-Shooter)
 
-## AI Database Migragtion
+## AI Database Migration
 🔄 This is a work‑in‑progress project focused on leveraging large language models (LLMs) to assist with database migration tasks (Team Project)
 
-**Tech Stack:** Python, MySQL, Claud
+**Tech Stack:** Python, MySQL, Claude
 
 **Repo:** *(Currently Private)*
 *(Link available upon request or via collaborator invite)*
